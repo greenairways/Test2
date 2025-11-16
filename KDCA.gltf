@@ -156,8 +156,20 @@
 				},
 				"metallicRoughnessTexture":{
 					"index":1
-				}
-			}
+		    },
+		    "baseColorFactor": [
+		      1.0,
+		      1.0,
+		      1.0,
+		      1.0
+		    ],
+		    "roughnessFactor": 0.8
+		  },
+		  "emissiveFactor": [
+		    0.01,
+		    0.009,
+		    0.006
+		  ]
 		},
 		{
 			"name":"STEEL",
@@ -173,8 +185,20 @@
 				},
 				"metallicRoughnessTexture":{
 					"index":4
-				}
-			}
+		    },
+		    "baseColorFactor": [
+		      1.0,
+		      1.0,
+		      1.0,
+		      1.0
+		    ],
+		    "roughnessFactor": 0.8
+		  },
+		  "emissiveFactor": [
+		    0.01,
+		    0.009,
+		    0.006
+		  ]
 		},
 		{
 			"name":"TextureAtlas d84a9c87",
